@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Kyst Flours
+title: Welcome to Kyst Flours
 metaTitle: ""
 metaDesc: Kyst Flours is a listing of all independent sources of glour available
   for online purchase in the United States.
