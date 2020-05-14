@@ -1,12 +1,13 @@
 ---
 layout: home
-title: A simple starter kit for Eleventy
-postsHeading: Latest posts
-archiveButtonText: See all posts
-metaDesc: 'Hylia is a lightweight Eleventy starter kit to help you to create your own blog or personal website.'
-socialImage: ''
+title: Welcome to Kyst Flours
+metaTitle: ""
+metaDesc: Kyst Flours is a listing of all independent sources of glour available
+  for online purchase in the United States.
+postsHeading: Newest Additions
+archiveButtonText: See all Millers
+socialImage: ""
 ---
+Kyst Flours strives to list every online source of flour and grains available for online ordering. Millers are listed with as much detailed information that we can find, including location, varieties of grain, processing used, organic certification, etc.
 
-Hylia is a lightweight [Eleventy](https://11ty.io) starter kit with [Netlify CMS](https://www.netlifycms.org/) pre-configured, so that you can one-click install a progressive, accessible blog in minutes. It also gives you a well organised starting point to extend yourself. It’s by [Andy Bell](https://twitter.com/hankchizljaw) and [friends](https://github.com/aarongustafson/hylia/graphs/contributors).
-
-Get started now by [deploying Hylia to Netlify.](https://app.netlify.com/start/deploy?repository=https://github.com/hankchizljaw/hylia&stack=cms)
+We are a crowd-sourced resource, so if you know of a Miller that is missing, please use the [contact form](/contact/index.html) to let us know and we will add them as soon as possible.
