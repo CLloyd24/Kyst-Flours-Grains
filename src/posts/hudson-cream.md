@@ -1,7 +1,7 @@
 ---
 layout: layouts/post.njk
 title: Hudson Cream
-date: 2020-05-14T22:38:17.394Z
+date: 2020-05-13T22:38:17.394Z
 tags:
   - Kansas
   - Bread Flour
