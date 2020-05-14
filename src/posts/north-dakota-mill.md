@@ -7,6 +7,8 @@ tags:
   - Bread Flour
   - Whole Wheat
 ---
+![North Dakota Mill](/images/north-dakota-mill.png)
+
 [North Dakota Mill](https://www.ndmill.com)
 
 The North Dakota Mill and Elevator Association began operating October 22, 1922 as a value-added market for wheat produced in North Dakota. In the early 1900’s, the flour mills and grain exchange in Minneapolis were the primary wheat markets for North Dakota farmers and elevators. After freight costs to Minneapolis were deducted from Minneapolis market prices, North Dakota farmers received a low price for their wheat. The North Dakota Mill came into existence to help solve this problem.
